@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Locks
+yarn.lock
+
+# Environment variables
+.env
+
+# Database
+*.db*
